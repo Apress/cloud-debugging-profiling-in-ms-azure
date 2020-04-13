@@ -1,0 +1,39 @@
+The following are the queries used in Chapter 10
+
+1. Get Perf
+
+	Perf
+	| limit 50	
+
+2. Group by column
+
+	Perf
+	| limit 50
+	| summarize by ObjectName
+
+3. Summarize to get count
+
+	Perf
+	| limit 10
+	| summarize count() by ObjectName
+	
+4. Getting data from Event table
+
+	Event 
+	| where EventLevelName == "Information" or EventLevelName == "Error" 
+	| summarize count() by Source 
+
+5. Memory and CPU usage
+
+	Perf
+	| where TimeGenerated > ago(1h)
+	| where (CounterName == "% Processor Time" and InstanceName == "_Total") or CounterName == "% Used Memory" 
+	| project TimeGenerated, CounterName, CounterValue 
+	| summarize avg(CounterValue) by CounterName, bin(TimeGenerated, 1m)
+	| render timechart
+	
+6. CoffeeFix.Web - query dependencies table from Log Analytics Data (Application Insight)
+
+	dependencies 
+	| where success == false
+	| limit 10

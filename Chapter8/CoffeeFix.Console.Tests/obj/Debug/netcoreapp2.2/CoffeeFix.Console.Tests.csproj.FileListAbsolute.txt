@@ -1,0 +1,17 @@
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\obj\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.csprojAssemblyReference.cache
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\obj\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.csproj.CoreCompileInputs.cache
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\obj\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.AssemblyInfoInputs.cache
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\obj\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.AssemblyInfo.cs
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.deps.json
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.runtimeconfig.json
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.runtimeconfig.dev.json
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.dll
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.pdb
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\CoffeeFix.Console.dll
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\bin\Debug\netcoreapp2.2\CoffeeFix.Console.pdb
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\obj\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.csproj.CopyComplete
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\obj\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.dll
+J:\git\Cloud-Debugging-and-Profiling\Chapter8\CoffeeFix.Console.Tests\obj\Debug\netcoreapp2.2\CoffeeFix.Console.Tests.pdb

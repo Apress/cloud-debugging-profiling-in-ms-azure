@@ -1,0 +1,88 @@
+{
+    "$connections": {
+        "value": {
+            "azureblob": {
+                "connectionId": "/subscriptions/580dbac4-cf41-460d-a17b-af7299f00c16/resourceGroups/coffeefixfunctionapp/providers/Microsoft.Web/connections/azureblob",
+                "connectionName": "azureblob",
+                "id": "/subscriptions/580dbac4-cf41-460d-a17b-af7299f00c16/providers/Microsoft.Web/locations/centralus/managedApis/azureblob"
+            },
+            "sendgrid": {
+                "connectionId": "/subscriptions/580dbac4-cf41-460d-a17b-af7299f00c16/resourceGroups/coffeefixfunctionapp/providers/Microsoft.Web/connections/sendgrid",
+                "connectionName": "sendgrid",
+                "id": "/subscriptions/580dbac4-cf41-460d-a17b-af7299f00c16/providers/Microsoft.Web/locations/centralus/managedApis/sendgrid"
+            }
+        }
+    },
+    "definition": {
+        "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+        "actions": {
+            "HttpTrigger1": {
+                "inputs": {
+                    "body": "@json('{\"name\": \"Coffee Maker\"}')",
+                    "function": {
+                        "id": "/subscriptions/580dbac4-cf41-460d-a17b-af7299f00c16/resourceGroups/coffeefixfunctionapp/providers/Microsoft.Web/sites/coffeefixfunctionapp/functions/HttpTrigger1"
+                    }
+                },
+                "runAfter": {
+                    "Send_email_(V3)": [
+                        "Succeeded"
+                    ]
+                },
+                "type": "Function"
+            },
+            "Send_email_(V3)": {
+                "inputs": {
+                    "body": {
+                        "from": "g_arora@hotmail.com",
+                        "subject": "Coffeefix - Report is generated",
+                        "text": "<p>Hi there<br>\n<br>\nPlease be noted that new report has been generated for CoffeeFix.<br>\n<br>\nThanks,<br>\nTeam CoffeeFix</p>",
+                        "to": "chilberto@yahoo.com;gaurav.arora@shubhcomputing.com"
+                    },
+                    "host": {
+                        "connection": {
+                            "name": "@parameters('$connections')['sendgrid']['connectionId']"
+                        }
+                    },
+                    "method": "post",
+                    "path": "/v3/mail/send"
+                },
+                "runAfter": {},
+                "type": "ApiConnection"
+            }
+        },
+        "contentVersion": "1.0.0.0",
+        "outputs": {},
+        "parameters": {
+            "$connections": {
+                "defaultValue": {},
+                "type": "Object"
+            }
+        },
+        "triggers": {
+            "When_a_blob_is_added_or_modified_(properties_only)": {
+                "inputs": {
+                    "host": {
+                        "connection": {
+                            "name": "@parameters('$connections')['azureblob']['connectionId']"
+                        }
+                    },
+                    "method": "get",
+                    "path": "/datasets/default/triggers/batch/onupdatedfile",
+                    "queries": {
+                        "folderId": "JTJmY29udGFpbmVyLXJlcG9ydHM=",
+                        "maxFileCount": 10
+                    }
+                },
+                "metadata": {
+                    "JTJmY29udGFpbmVyLXJlcG9ydHM=": "/container-reports"
+                },
+                "recurrence": {
+                    "frequency": "Minute",
+                    "interval": 3
+                },
+                "splitOn": "@triggerBody()",
+                "type": "ApiConnection"
+            }
+        }
+    }
+}

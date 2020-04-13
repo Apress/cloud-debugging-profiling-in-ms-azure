@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CoffeeFixWeb20191126095055" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\SjoukjeZaal\\Repos\\Cloud\ Debugging\ and\ Profiling\\Chapter7\\CoffeeFix\\New\\CoffeeFix\.Web\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

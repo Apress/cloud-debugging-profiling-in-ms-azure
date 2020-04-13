@@ -1,0 +1,102 @@
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.deps.json
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.runtimeconfig.json
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.runtimeconfig.dev.json
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.dll
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.pdb
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.Views.dll
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.Views.pdb
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.csproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorAssemblyInfo.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorAssemblyInfo.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.AssemblyInfoInputs.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.AssemblyInfo.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.TagHelpers.input.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.TagHelpers.output.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorCoreGenerate.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorTargetAssemblyInfo.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorTargetAssemblyInfo.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.Views.pdb
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.dll
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.pdb
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter4\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.csproj.CopyComplete
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.deps.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.runtimeconfig.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.runtimeconfig.dev.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.dll
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.Views.dll
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.Views.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorAssemblyInfo.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorAssemblyInfo.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.AssemblyInfoInputs.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.AssemblyInfo.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.TagHelpers.input.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.TagHelpers.output.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorCoreGenerate.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorTargetAssemblyInfo.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorTargetAssemblyInfo.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.Views.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.dll
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.csproj.CopyComplete
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter5\CoffeeFix.Web\bin\Debug\netcoreapp2.2\Connected Services\Application Insights\ConnectedService.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\Connected Services\Application Insights\ConnectedService.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.deps.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.runtimeconfig.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.runtimeconfig.dev.json
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.dll
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.Views.dll
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\bin\Debug\netcoreapp2.2\CoffeeFix.Web.Views.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorAssemblyInfo.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorAssemblyInfo.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.AssemblyInfoInputs.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.AssemblyInfo.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.TagHelpers.input.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.TagHelpers.output.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorCoreGenerate.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorTargetAssemblyInfo.cache
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.RazorTargetAssemblyInfo.cs
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.Views.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.dll
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.pdb
+C:\Users\SjoukjeZaal\Repos\Cloud Debugging and Profiling\Chapter7\CoffeeFix\New\CoffeeFix.Web\obj\Debug\netcoreapp2.2\CoffeeFix.Web.csproj.CopyComplete

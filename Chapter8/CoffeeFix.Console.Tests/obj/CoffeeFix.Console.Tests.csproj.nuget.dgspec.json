@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console.Tests\\CoffeeFix.Console.Tests.csproj": {}
+  },
+  "projects": {
+    "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console.Tests\\CoffeeFix.Console.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console.Tests\\CoffeeFix.Console.Tests.csproj",
+        "projectName": "CoffeeFix.Console.Tests",
+        "projectPath": "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console.Tests\\CoffeeFix.Console.Tests.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console\\CoffeeFix.Console.csproj": {
+                "projectPath": "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console\\CoffeeFix.Console.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console\\CoffeeFix.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console\\CoffeeFix.Console.csproj",
+        "projectName": "CoffeeFix.Console",
+        "projectPath": "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console\\CoffeeFix.Console.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "J:\\git\\Cloud-Debugging-and-Profiling\\Chapter8\\CoffeeFix.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.ApplicationInsights.DependencyCollector": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.7.12, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

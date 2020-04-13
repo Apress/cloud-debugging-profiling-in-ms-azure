@@ -1,0 +1,11 @@
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\bin\Debug\netcoreapp2.2\CoffeeFix.Console.deps.json
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\bin\Debug\netcoreapp2.2\CoffeeFix.Console.runtimeconfig.json
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\bin\Debug\netcoreapp2.2\CoffeeFix.Console.runtimeconfig.dev.json
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\bin\Debug\netcoreapp2.2\CoffeeFix.Console.dll
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\bin\Debug\netcoreapp2.2\CoffeeFix.Console.pdb
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\obj\Debug\netcoreapp2.2\CoffeeFix.Console.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\obj\Debug\netcoreapp2.2\CoffeeFix.Console.csproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\obj\Debug\netcoreapp2.2\CoffeeFix.Console.AssemblyInfoInputs.cache
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\obj\Debug\netcoreapp2.2\CoffeeFix.Console.AssemblyInfo.cs
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\obj\Debug\netcoreapp2.2\CoffeeFix.Console.dll
+C:\Users\SjoukjeZaal\source\repos\CloudDebuggingAndProfiling\Chapter5\CoffeeFix.Console\obj\Debug\netcoreapp2.2\CoffeeFix.Console.pdb

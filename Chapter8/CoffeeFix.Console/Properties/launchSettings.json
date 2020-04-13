@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoffeeFix.Console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
